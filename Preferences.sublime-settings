@@ -1,0 +1,11 @@
+{
+	"ignored_packages":
+	[
+		"Vintage",
+	],
+	"theme": "Legacy.sublime-theme",
+	"show_legacy_color_schemes": true,
+	"line_padding_bottom": 2,
+	"line_padding_top": 2,
+	"color_scheme": "Packages/Color Scheme - Legacy/Monokai Bright.tmTheme",
+}

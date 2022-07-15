@@ -1,11 +1,10 @@
+// Settings in here override those in "Default/Preferences.sublime-settings",
+// and are overridden in turn by syntax-specific settings.
 {
-	"ignored_packages":
-	[
-		"Vintage",
-	],
-	"theme": "Legacy.sublime-theme",
+	"font_size": 11,
+	"file_tab_style": "angled",
+	"line_padding_bottom": 3,
+	"line_padding_top": 3,
 	"show_legacy_color_schemes": true,
-	"line_padding_bottom": 2,
-	"line_padding_top": 2,
 	"color_scheme": "Packages/Color Scheme - Legacy/Monokai Bright.tmTheme",
 }
